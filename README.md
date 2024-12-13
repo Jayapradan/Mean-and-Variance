@@ -1,9 +1,7 @@
-# Experiment No : 1
-#  Mean and variance of a discrete  distribution
+# Ex No : 1 - Mean and variance of a discrete  distribution
+# Date : 21/09/2024
 # Name : SUJITH A
 # Register No : 24900130
-
-
 
 # Aim : 
 
